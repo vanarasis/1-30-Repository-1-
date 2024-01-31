@@ -18,6 +18,8 @@ void showq(queue<int> gq)
 // Driver Code
 int main()
 {
+
+	// reposit 1
 	queue<int> gquiz;
 	gquiz.push(10);
 	gquiz.push(20);
